@@ -1,6 +1,6 @@
 # OfficeHome 이미지 분류 모델 검색 시스템
 
-* Hugging Face Space: spsychic2/officehome-cnn-caption-search
+* Hugging Face Space: [spsychic2/officehome-cnn-caption-search](https://huggingface.co/spaces/spsychic2/officehome-cnn-caption-search)
 * GitHub Repository:  https://github.com/predpoke/SuperSecondProject
 
 ---
